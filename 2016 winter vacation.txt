@@ -1,0 +1,9 @@
+2016.1.29
+locations ：
+家 国家图书馆 宿舍
+processes ： 上午挣扎的回学校，车上看了react的教学视频对react各个组件的协同使用有了理解（1）。下午到国家图书馆看了一本关于git的书，跟着书上用git bash命令行控制git（2）。晚上回宿舍收拾猪窝，在慕课网上温习了git的概念，并用git桌面端使用git
+details ：
+（1）：react各组件的协同 ：嵌套（父子 纵向） Mixin（抽象的函数 横向） react利用子组件的委托实现数据双向绑定。自此，我对于react的基本概念都有了理解了（不考虑性能的情况下）。
+（2）：git bash、 vim 基本命令 ssh秘钥申请 冲突 branch
+（3）：
+feelings
