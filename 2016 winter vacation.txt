@@ -5,5 +5,5 @@ processes ： 上午挣扎的回学校，车上看了react的教学视频对reac
 details ：
 （1）：react各组件的协同 ：嵌套（父子 纵向） Mixin（抽象的函数 横向） react利用子组件的委托实现数据双向绑定。自此，我对于react的基本概念都有了理解了（不考虑性能的情况下）。
 （2）：git bash、 vim 基本命令 ssh秘钥申请 冲突 branch
-（3）：
+（3）：直接用客户端创建项目 同步到github上 冲突
 feelings
